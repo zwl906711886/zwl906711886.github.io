@@ -31,6 +31,12 @@
       
       
       
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -44,6 +50,12 @@
       
       
       
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -56,6 +68,12 @@
         <content type="html"><![CDATA[<h2 id="后端工程"><a href="#后端工程" class="headerlink" title="后端工程"></a>后端工程</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">nohup java -jar 你的jar包名称 --spring.profiles.prod=active &amp;</span><br><span class="line">指定在后台执行并且优先执行prod中的配置文件</span><br></pre></td></tr></table></figure><h2 id="前端工程"><a href="#前端工程" class="headerlink" title="前端工程"></a>前端工程</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nginx -s reload #每次部署都需要重启nginx</span><br></pre></td></tr></table></figure>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
       
     </entry>
     
